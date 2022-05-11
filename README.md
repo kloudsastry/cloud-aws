@@ -1,14 +1,16 @@
 # cloud-aws
-## Foundation
+## Cloud Foundation
 - Greenfield Accounts
 - Brownfield Accounts
 - Landing Zone
-  - Design
+  - AWS Organizations
   - AWS Control Tower Factory for Terraform
     - Master billing Account
     - Security Account
     - Log archive Account
-  - AWS regions supported
+    - AWS regions supported
+    - Enabling Cloud Trail audit
+    - AWS Customizations
   - SSO Integration
 ## Networking
 - VPC
@@ -35,16 +37,31 @@
   - Why terragrunt?
   - Provisioning
     - Git branching
-    - 
+    - Infrastructure Governance
+    - State file management
+    - User data management
+  - LCM management using terraform
+  - Avoid Drift
 ## Services
 - EC2
+  - Spot instances
+  - Reserved Instances
+  - On-Demand Instances
 - S3
+  - Bucket Encryption
 - RDS
 ## AMI Engineering
 ## Kubernetes
 ## Cloud Governance
 ## FinOps
+- AWS Cost Management
+- CUR Reports
 - Tagging
-- Spot instances
-- Reserved Instances
-- On-Demand Instances
+## Cloud Operations
+### Backup
+- EC2 Snapshots
+- RDS Backups
+### Monitoring
+### Automations
+## Cloud Migration
+
