@@ -73,6 +73,7 @@
     - Windows 2019
     - EKS Optimized
     - ECS Optimized
+  - Supported Marketplace AMI's
 - AMI Rollout
   - Current AMI Info
   - Previous AMI Info
