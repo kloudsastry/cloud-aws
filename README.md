@@ -51,7 +51,7 @@
   - Bucket Encryption
 - RDS
 ## AMI Engineering
-- Baking AMI's
+- AMI Build Process
   - Implementing Packer
   - Integrating Ansible with Packer
   - Updating Parameter store with AMI ID
