@@ -51,6 +51,32 @@
   - Bucket Encryption
 - RDS
 ## AMI Engineering
+- Baking AMI's
+  - Implementing Packer
+  - Integrating Ansible with Packer
+  - Updating Parameter store with AMI ID
+  - Sharing AMI ID's to Multiple Accounts
+- Server Hardening - CIS Commandments
+  - ARM Platform
+    - RedHat
+    - Amzn Linux 2
+    - Ubuntu
+    - Windows 2016
+    - Windows 2019
+    - EKS Optimized
+    - ECS Optimized
+  - x86 Platform
+    - RedHat
+    - Amzn Linux 2
+    - Ubuntu
+    - Windows 2016
+    - Windows 2019
+    - EKS Optimized
+    - ECS Optimized
+- AMI Rollout
+  - Current AMI Info
+  - Previous AMI Info
+  - Updating ASG with latest AMI Info
 ## Kubernetes
 ## Cloud Governance
 ## FinOps
