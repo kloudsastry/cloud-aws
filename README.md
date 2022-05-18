@@ -24,6 +24,7 @@
 - Routing
 - Transit Gateway
 - Direct connect
+## Cloud Governance
 ## Security
 - Cloud Custodian
 - AWS GuardDuty
@@ -78,8 +79,7 @@
   - Current AMI Info
   - Previous AMI Info
   - Updating ASG with latest AMI Info
-## Kubernetes
-## Cloud Governance
+
 ## FinOps
 - AWS Cost Management
 - CUR Reports
@@ -90,5 +90,6 @@
 - RDS Backups
 ### Monitoring
 ### Automations
-## Cloud Migration
 
+## Cloud Native Foudation
+  - Kubernetes
